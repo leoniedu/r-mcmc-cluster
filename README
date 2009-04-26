@@ -1,0 +1,1 @@
+Functions to run parallel MCMC chains in separate cores/computers using R packages rjags and MCMCpack.
